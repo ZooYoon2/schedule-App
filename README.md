@@ -1,4 +1,4 @@
-# schedule-App!
+# schedule-App
 ![슬라이드3](https://user-images.githubusercontent.com/91615180/219939206-74f2c871-520b-458b-b5b1-5e34096611d3.JPG)
 ![슬라이드5](https://user-images.githubusercontent.com/91615180/219939208-97012d52-be12-4efc-9e0c-f437b11425ea.JPG)
 ![슬라이드6](https://user-images.githubusercontent.com/91615180/219939210-1d840404-9b3c-46db-a1ec-bd1530a0e4d9.JPG)
